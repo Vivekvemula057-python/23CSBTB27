@@ -20,6 +20,9 @@ https://github.com/Vivekvemula057-python/23CSBTB27/blob/main/Lab6.ipynb
 https://github.com/Vivekvemula057-python/23CSBTB27/blob/main/Lab_7.ipynb
 
 
+https://github.com/Vivekvemula057-python/23CSBTB27/blob/main/Lab_8.ipynb
+
+
 
 
 
